@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CLI Reference on DragonFly Documentation</title>
+    <link>https://d7y.io/cli_reference/</link>
+    <description>Recent content in CLI Reference on DragonFly Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://d7y.io/cli_reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>dfdaemon</title>
+      <link>https://d7y.io/cli_reference/dfdaemon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/cli_reference/dfdaemon/</guid>
+      <description>dfdaemon This topic explains how to use the dfdaemon command.
+NAME dfdaemon - a proxy between pouchd/dockerd and registry used for pulling images.
+SYNOPSIS dfdaemon [options]&amp;hellip;
+OPTIONS -callsystem string caller name (default &amp;quot;com_ops_dragonfly&amp;quot;) -certpem string cert.pem file path -dfpath string dfget path (default is your installed path) -h	help -hostIp string dfdaemon host ip, default: 127.0.0.1 (default &amp;quot;127.0.0.1&amp;quot;) -keypem string key.pem file path -localrepo string temp output dir of dfdaemon (default is &amp;quot;${HOME}/.</description>
+    </item>
+    
+    <item>
+      <title>dfget</title>
+      <link>https://d7y.io/cli_reference/dfget/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/cli_reference/dfget/</guid>
+      <description>dfget This topic explains how to use the dfget command.
+NAME dfget - the client of Dragonfly, a non-interactive P2P downloader
+SYNOPSIS dfget -u [URL] [options]&amp;hellip;
+OPTIONS  -h, --help show this help message and exit --url URL, -u URL will download a file from this url --output OUTPUT, -O OUTPUT, -o OUTPUT output path that not only contains the dir part but also name part --md5 MD5, -m MD5 expected file md5 --callsystem CALLSYSTEM system name that executes dfget,its format is company_department_appName --notbs not back source when p2p fail --locallimit LOCALLIMIT, -s LOCALLIMIT rate limit about a single download task,its format is 20M/m/K/k --totallimit TOTALLIMIT rate limit about the whole host,its format is 20M/m/K/k --identifier IDENTIFIER, -i IDENTIFIER identify download task,it is available merely when md5 param not exist --timeout TIMEOUT, --exceed TIMEOUT, -e TIMEOUT download timeout(second) --filter FILTER, -f FILTER filter some query params of url ,e.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://d7y.io/api_reference/api_supernode/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/onboarding/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/user_guide/install_server/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/overview/what_is_dragonfly/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/cli_reference/dfdaemon/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/user_guide/install_client/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/api_reference/api_preheat/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/overview/terminology/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/cli_reference/dfget/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/user_guide/download_files/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/overview/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/user_guide/supernode_configuration/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/quick_start/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/user_guide/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/cli_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/api_reference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/faq/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/apis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/roadmap/</loc>
+  </url>
+  
+  <url>
+    <loc>https://d7y.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Reference on DragonFly Documentation</title>
+    <link>https://d7y.io/api_reference/</link>
+    <description>Recent content in API Reference on DragonFly Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://d7y.io/api_reference/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>APIs Provided by Supernode</title>
+      <link>https://d7y.io/api_reference/api_supernode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/api_reference/api_supernode/</guid>
+      <description>&lt;p&gt;This topic explains how to use the APIs provided by Supernode.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Preheat API</title>
+      <link>https://d7y.io/api_reference/api_preheat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/api_reference/api_preheat/</guid>
+      <description>&lt;p&gt;This topic explains how to use the Preheat API.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

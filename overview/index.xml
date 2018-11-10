@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on DragonFly Documentation</title>
+    <link>https://d7y.io/overview/</link>
+    <description>Recent content in Overview on DragonFly Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://d7y.io/overview/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What Is Dragonfly?</title>
+      <link>https://d7y.io/overview/what_is_dragonfly/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/overview/what_is_dragonfly/</guid>
+      <description>&lt;p&gt;Dragonfly is an intelligent P2P-based image and file distribution tool. It aims to improve the efficiency and success rate of file transferring, and maximize the usage of network bandwidth, especially for the distribution of larget amounts of data, such as application distribution, cache distribution, log distribution, and image distribution.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Terminology</title>
+      <link>https://d7y.io/overview/terminology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://d7y.io/overview/terminology/</guid>
+      <description>&lt;p&gt;This topic lists the common terms used throughout Dragonfly.
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
